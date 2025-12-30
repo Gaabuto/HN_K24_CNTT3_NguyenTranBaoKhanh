@@ -66,5 +66,5 @@ where course_id = 'C101';
 delete from course
 where course_id = 'C101';
 
--- vi co khoa ngoai vao nen khong the xoa neu chua xoa khoa ngoai cua no
+-- vi trong enrollment dang co khoa ngoai chi vao course nen course khong the xoa neu enrollment van con chi vao` course
 
