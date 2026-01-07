@@ -1,6 +1,5 @@
 create database test1;
 use test1;
-
 -- bai 1
 create table student(
 student_id varchar(50) primary key,
@@ -47,7 +46,7 @@ values
 ('b24dtcn002', 'C002', '9.5'),
 ('b24dtcn003', 'C005', '5.7'),
 ('b24dtcn004', 'C004', '10'),
-('b24dtcn005', 'C003', '6.9');
+('b24dtcn005', 'C002', '6.9');
 
 
 update enrollment
